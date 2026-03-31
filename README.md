@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi, I'm Haleemah
+
+CS Student @ FAST NUCES (6th Semester) | Lahore, Pakistan
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, Assembly
+- **Web & Backend:** Node.js, HTML, CSS, PostgreSQL
+- **ML & AI:** TensorFlow, CNN, NumPy
+- **Tools:** Docker, AWS
+
+## 🚀 Projects
+- **Incozi** — Full-stack web app for a CA firm
+- **Quick Draw** — CNN-based image classifier
+- **Custom Text Editor** — C++ & SFML
+- **Letter Catching Game** — Assembly language
+
+## 📫 Reach Me
+- LinkedIn: linkedin.com/in/haleemah-zaheer
+- Email: haleemahzwork1@gmail.com
 
 <!--
 **Halms998/Halms998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
